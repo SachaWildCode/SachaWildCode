@@ -14,9 +14,9 @@
 
 <section align=center>
 <h2></h2>
-<img align="center" width="600rem" height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=SachaWildCode&theme=radical&hide_border=true](https://github-readme-streak-stats.herokuapp.com?user=SachaWildCode&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sat&background=EB545400&currStreakNum=F8D847&sideNums=FE428E&ring=FE428E&sideLabels=FE428E&currStreakLabel=F8D847&dates=A9FEF7&fire=F8D847"/>
+<img align="center" width="600rem" height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=SachaWildCode&theme=radical&hide_border=true](https://github-readme-streak-stats.herokuapp.com?user=SachaWildCode&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sat&currStreakNum=F8D847&sideNums=FE428E&ring=FE428E&sideLabels=FE428E&currStreakLabel=F8D847&dates=A9FEF7&fire=F8D847"/>
 <h2></h2>
-<img align="center" width="600rem" height="200rem" src="https://github-readme-stats.vercel.app/api?username=SachaWildCode&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
+<img align="center" width="600rem" height="200rem" src="https://github-readme-stats.vercel.app/api?username=SachaWildCode&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
 <h2></h2>
-<img align="center" width="600rem" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachaWildCode&layout=compact&card_width=600rem&hide_border=true&theme=radical&bg_color=00000000"/>
+<img align="center" width="600rem" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachaWildCode&layout=compact&card_width=600rem&hide_border=true&theme=radical"/>
 </section>
