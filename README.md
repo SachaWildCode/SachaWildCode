@@ -11,7 +11,3 @@
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white "/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </section>
-
-<section align=center>
-<img align=center width="600rem" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachaWildCode&layout=compact&card_width=600rem&hide_border=true&theme=radical"/>
-</section>
