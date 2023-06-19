@@ -1,5 +1,5 @@
 <section align=center>
-<h1 align= "center">🚀Welcome to my Github Profile</h1>
+<h1 align=center>🚀Welcome to my Github Profile</h1>
 </br>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -12,6 +12,6 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </section>
 
-<section align= "center">
-<img align="center" width="600rem" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachaWildCode&layout=compact&card_width=600rem&hide_border=true&theme=radical"/>
+<section align=center>
+<img align=center width="600rem" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachaWildCode&layout=compact&card_width=600rem&hide_border=true&theme=radical"/>
 </section>
